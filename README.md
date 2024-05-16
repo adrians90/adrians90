@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [adriansandu9090@gmail.com](mailto:adriansandu9090@gmail.com)
-* 🧠  I'm learning TypeScript, NextJS
+* 🧠  I'm learning NextJS
 
 ### Skills
 
